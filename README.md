@@ -1,2 +1,2 @@
-# Elektronska-klju-avnica-Nogra-ek-Kotar
+# Elektronska-klju-avnica-Nograšek-Kotar
 Odklepanje ključavnice s pomočjo številčnice.
