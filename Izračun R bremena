@@ -1,0 +1,19 @@
+Izračun Rb:
+
+NPN BC 547 C
+
+Ucc = 5V
+Up = o,7V
+Ir = 100mA (Ic)
+hfe = 550
+
+
+Ib = Ir/β
+Ib = 100mA/550
+Ib = 0,1818mA
+
+Rb = Ucc - Up/Ib
+Rb = 5V - 0,7V/0,1818mA
+Rb = 23,6kΩ
+
+To pomeni, da za breme uporabimo 24kΩ upor.
